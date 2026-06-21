@@ -4,24 +4,24 @@ Graduate Electrotechnics Technician currently pursuing a degree in Cybersecurity
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Technologies & Tools
 
 <p align="center">
-  <b>Segurança & Ciberdefesa</b><br>
+  <b>Hardware & IoT</b><br>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+</p>
+
+<p align="center">
+  <b>Cybersecurity & Cyber Defense</b><br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Network%20Security-005A9C?style=for-the-badge&logo=checkpoint&logoColor=white" alt="Network Security">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
 </p>
 
 <p align="center">
-  <b>Infraestrutura & Redes</b><br>
-  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" alt="Windows Server">
-  <img src="https://img.shields.io/badge/IP%20Routing-005A9C?style=for-the-badge&logo=cisco&logoColor=white" alt="IP Routing">
-  <img src="https://img.shields.io/badge/Cyber%20Security-000000?style=for-the-badge&logo=wireshark&logoColor=white" alt="Cyber Security">
-</p>
-
-<p align="center">
-  <b>Banco de Dados & Backend</b><br>
+  <b>Databases & Backend</b><br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
