@@ -7,10 +7,10 @@ Graduate Electrotechnics Technician currently pursuing a degree in Cybersecurity
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <b>Hardware & IoT</b><br>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <b>Segurança & Ciberdefesa</b><br>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Network%20Security-005A9C?style=for-the-badge&logo=checkpoint&logoColor=white" alt="Network Security">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
 </p>
 
 <p align="center">
