@@ -1,7 +1,6 @@
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&width=500&lines=Hi,+I'm+Mateus!+⚓️;IoT+%26+Networks+Enthusiast;Focusing+on+Cybersecurity;Tech:+ESP32,+C%2B%2B,+MySQL,+Python)
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&width=500&lines=Hi,+I'm+Mateus!+👋;Cybersecurity+%26+Cyber+Defense;Electrotechnics+Technician;Tech:+ESP32,+C%2B%2B,+MySQL,+Python)
 
-An Enthusiast in Computer Networks, Cybersecurity, and IoT Infrastructure.
-Currently technical student in Electrotechnics and passionate about bridging the gap between hardware and software.
+Graduate Electrotechnics Technician currently pursuing a degree in Cybersecurity. I specialize in bridging the gap between physical infrastructure, IoT hardware, and digital defense.
 
 ---
 
