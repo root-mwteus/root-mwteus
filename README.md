@@ -14,7 +14,7 @@ Graduate Electrotechnics Technician currently pursuing a degree in Cybersecurity
 </p>
 
 <p align="center">
-  <b>Cybersecurity & Cyber Defense</b><br>
+  <b>Cybersecurity</b><br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Network%20Security-005A9C?style=for-the-badge&logo=checkpoint&logoColor=white" alt="Network Security">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
