@@ -1,4 +1,4 @@
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&width=500&lines=Hi,+I'm+Mateus!+👋;Cybersecurity+%26+Networks;Electrotechnics+Technician;Tech:+ESP32,+C%2B%2B,+MySQL,+Python)
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&width=500&lines=Hi,+I'm+Mateus!+👋;Cybersecurity+%26+Networks;Electrotechnics+Technician;Tech:+Python,+C%2B%2B,+MySQL)
 
 Graduate Electrotechnics Technician currently pursuing a degree in Cybersecurity and Cyber Defense Management. I specialize in bridging the gap between physical infrastructure, IoT hardware, and digital defense.
 
