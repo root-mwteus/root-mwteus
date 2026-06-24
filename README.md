@@ -32,3 +32,9 @@ Graduate Electrotechnics Technician currently pursuing a degree in Cybersecurity
 
 ### 🖥️ Featured Project
 * **Automated Acoustic Incubator:** Real-time environmental monitoring dashboard deployed on Cloud (Hostinger) with ESP32 integration.
+
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=root-mwteus&color=blue&style=flat&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
