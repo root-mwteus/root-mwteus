@@ -1,4 +1,4 @@
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&width=520&lines=Ol%C3%A1%2C+eu+sou+o+Mateus!+%F0%9F%90%A7;Dev.+Full--Stack+%26+ADS;Next.js+%7C+TypeScript+%7C+Supabase;Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o+%26+Redes)
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&width=520&lines=Ol%C3%A1%2C+eu+sou+o+Mateus!+%F0%9F%90%A7;Dev.+Full-Stack+%26+ADS;Next.js+%7C+TypeScript+%7C+Supabase;Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o+%26+Redes)
 
 Técnico em Eletrotécnica e graduando em **Análise e Desenvolvimento de Sistemas (ADS)** e **Gestão da Segurança e Defesa Cibernética**. Desenvolvedor Full-Stack focado em criar aplicações web escaláveis, integrando infraestrutura física, hardware IoT e defesa digital.
 
@@ -58,16 +58,6 @@ Plataforma SaaS de estudos focada em concursos públicos, vestibulares e exames 
 * **Backend & Auth:** Supabase (PostgreSQL, Storage e Autenticação com RLS).
 * **Integrações:** Checkout e Webhooks com Mercado Pago, Inteligência Artificial (OpenAI) para criação de planos de estudo e disparo de e-mails transacionais via Resend.
 * **Infraestrutura:** Deploy e automação CI/CD na Vercel.
-
----
-
-### 📊 Desempenho & Conquistas no GitHub
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=root-mwteus&theme=dark&hide_border=true" alt="Sequência de Commits" width="49%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=root-mwteus&theme=darkhub&no-frame=true&column=3" alt="Troféus do GitHub" width="49%" />
-</p>
-
 ---
 
 <p align="left">
