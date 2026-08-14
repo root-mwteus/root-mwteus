@@ -8,10 +8,10 @@ Técnico em Eletrotécnica e graduando em **Análise e Desenvolvimento de Sistem
 
 <p align="center">
   <b>🌐 Web & Frontend Frameworks</b><br>
-  <img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion">
 </p>
 
@@ -20,6 +20,8 @@ Técnico em Eletrotécnica e graduando em **Análise e Desenvolvimento de Sistem
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Upstash_Redis-00E599?style=for-the-badge&logo=redis&logoColor=black" alt="Upstash Redis">
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
@@ -50,7 +52,7 @@ Técnico em Eletrotécnica e graduando em **Análise e Desenvolvimento de Sistem
 
 ---
 
-## 🖥️ Projeto em Destaque
+## 🖥️ Projetos em Destaque
 
 ### 🚀 [Matriz Aprova](https://matrizaprova.com)
 Plataforma SaaS de estudos focada em concursos públicos, vestibulares e exames militares.
@@ -58,6 +60,15 @@ Plataforma SaaS de estudos focada em concursos públicos, vestibulares e exames 
 * **Backend & Auth:** Supabase (PostgreSQL, Storage e Autenticação com RLS).
 * **Integrações:** Checkout e Webhooks com Mercado Pago, Inteligência Artificial (OpenAI) para criação de planos de estudo e disparo de e-mails transacionais via Resend.
 * **Infraestrutura:** Deploy e automação CI/CD na Vercel.
+
+---
+
+### 🏛️ [Cartório de Registro de Imóveis — Bom Conselho/PE](https://cartorio-project-topaz.vercel.app)
+Site institucional independente desenvolvido como projeto de portfólio de alta performance e segurança com a identidade visual real da serventia.
+* **Stack:** Next.js 16 (App Router & React Server Components), TypeScript (modo estrito), Tailwind CSS v4 e Vitest (testes automatizados).
+* **Backend & Segurança:** Supabase (mensagens do formulário), Upstash Redis (rate limiting antispam), Resend (notificação por e-mail) e Headers de Segurança reforçados (CSP, X-Frame-Options).
+* **Recursos:** Form de contato funcional com antispam (honeypot + rate limit de 5 envios/10min por IP), SEO completo (JSON-LD, Open Graph), total acessibilidade (A11y/WCAG) e links diretos ao Portal Integrado do ONR.
+
 ---
 
 <p align="left">
