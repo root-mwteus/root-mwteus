@@ -45,12 +45,14 @@ Técnico em Eletrotécnica e graduando em **Análise e Desenvolvimento de Sistem
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=root-mwteus&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=root-mwteus&layout=compact&theme=dark&hide_border=true" alt="Linguagens Mais Usadas" height="150" />
+</div>
 
-### 📊 Desempenho & Conquistas no GitHub
+<br>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=root-mwteus&theme=dark&hide_border=true" alt="Sequência de Commits" width="49%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=root-mwteus&theme=darkhub&no-frame=true&column=3" alt="Troféus do GitHub" width="49%" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=root-mwteus&color=blue&style=flat&label=VISITAS+AO+PERFIL" alt="Visualizações do Perfil" />
 </p>
-
 ---
