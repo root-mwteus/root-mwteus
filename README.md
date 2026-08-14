@@ -47,4 +47,3 @@ Técnico em Eletrotécnica e graduando em **Análise e Desenvolvimento de Sistem
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=root-mwteus&color=blue&style=flat&label=VISITAS+AO+PERFIL" alt="Visualizações do Perfil" />
 </p>
----
