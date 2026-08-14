@@ -44,3 +44,13 @@ Técnico em Eletrotécnica e graduando em **Análise e Desenvolvimento de Sistem
 
 
 ---
+
+
+### 📊 Desempenho & Conquistas no GitHub
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=root-mwteus&theme=dark&hide_border=true" alt="Sequência de Commits" width="49%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=root-mwteus&theme=darkhub&no-frame=true&column=3" alt="Troféus do GitHub" width="49%" />
+</p>
+
+---
