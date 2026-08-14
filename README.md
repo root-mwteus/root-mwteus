@@ -33,7 +33,7 @@ Técnico em Eletrotécnica e graduando em **Análise e Desenvolvimento de Sistem
 ---
 
 ## 🎓 Formação Acadêmica & Foco
-- 🎓 **Análise e Desenvolvimento de Sistemas (ADS)** - *Cursando*
+- 🎓 **Análise e Desenvolvimento de Sistemas (ADS)** - *Graduando*
 - 🛡️ **Gestão de Cibersegurança e Defesa Cibernética** - *Graduando*
 - ⚡ **Técnico em Eletrotécnica** - *Formado*
 
