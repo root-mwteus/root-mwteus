@@ -1,6 +1,6 @@
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Mateus!+%F0%9F%90%A7;An%C3%A1lise+e+Dev.+de+Sistemas;Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o+%26+Redes;Tech:+Python,+C%2B%2B,+MySQL)
 
-Técnico em Eletrotécnica e graduando em **Análise e Desenvolvimento de Sistemas (ADS)** e **Gestão de Segurança e Defesa Cibernética**. Especialista em conectar infraestrutura física, hardware IoT e defesa digital com foco em desenvolvimento de software e redes.
+Técnico em Eletrotécnica e graduando em **Análise e Desenvolvimento de Sistemas (ADS)** e **Gestão da Segurança e Defesa Cibernética**. Especialista em conectar infraestrutura física, hardware IoT e defesa digital com foco em desenvolvimento de software e redes.
 
 ---
 
@@ -34,7 +34,7 @@ Técnico em Eletrotécnica e graduando em **Análise e Desenvolvimento de Sistem
 
 ## 🎓 Formação Acadêmica & Foco
 - 🎓 **Análise e Desenvolvimento de Sistemas (ADS)** - *Graduando*
-- 🛡️ **Gestão de Cibersegurança e Defesa Cibernética** - *Graduando*
+- 🛡️ **Gestão da Segurança e Defesa Cibernética** - *Graduando*
 - ⚡ **Técnico em Eletrotécnica** - *Formado*
 
 ---
