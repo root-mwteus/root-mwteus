@@ -42,13 +42,13 @@ Técnico em Eletrotécnica e graduando em **Análise e Desenvolvimento de Sistem
 ## 🖥️ Projeto em Destaque
 * **[Matriz Aprova](https://matrizaprova.com):** Plataforma web de estudos e preparação educacional, composta por landing page institucional e dashboard exclusivo do aluno, implantada na nuvem via Vercel.
 
+
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=root-mwteus&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=root-mwteus&layout=compact&theme=dark&hide_border=true" width="48%" />
-</p>
+### 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=root-mwteus&color=blue&style=flat&label=VISITAS+AO+PERFIL" alt="Visualizações do Perfil" />
-</p>
+| Estatísticas | Linguagens Mais Usadas |
+| :---: | :---: |
+| ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=root-mwteus&show_icons=true&theme=dark&hide_border=true) | ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=root-mwteus&layout=compact&theme=dark&hide_border=true) |
+
+---
