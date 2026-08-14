@@ -1,6 +1,6 @@
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&width=520&lines=Ol%C3%A1%2C+eu+sou+o+Mateus!+%F0%9F%90%A7;Dev.+Full-Stack;Next.js+%7C+TypeScript+%7C+Supabase;Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o+%26+Redes)
 
-Técnico em Eletrotécnica e graduando em **Análise e Desenvolvimento de Sistemas (ADS)** e **Gestão da Segurança e Defesa Cibernética**. Desenvolvedor Full-Stack focado em criar aplicações web escaláveis, integrando infraestrutura física, hardware IoT e defesa digital.
+Técnico em Eletrotécnica e graduando em **Análise e Desenvolvimento de Sistemas (ADS)** e **Gestão da Segurança e Defesa Cibernética**. Desenvolvedor Full-Stack focado em criar aplicações web escaláveis, integrando infraestrutura física, hardware IoT e defesa cibernética.
 
 ---
 
