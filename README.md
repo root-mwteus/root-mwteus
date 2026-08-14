@@ -44,11 +44,3 @@ Técnico em Eletrotécnica e graduando em **Análise e Desenvolvimento de Sistem
 
 
 ---
-
-### 📊 Estatísticas do GitHub
-
-| Estatísticas | Linguagens Mais Usadas |
-| :---: | :---: |
-| ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=root-mwteus&show_icons=true&theme=dark&hide_border=true) | ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=root-mwteus&layout=compact&theme=dark&hide_border=true) |
-
----
