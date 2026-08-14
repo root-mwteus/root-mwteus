@@ -44,12 +44,10 @@ Técnico em Eletrotécnica e graduando em **Análise e Desenvolvimento de Sistem
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=root-mwteus&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=root-mwteus&layout=compact&theme=dark&hide_border=true" alt="Linguagens Mais Usadas" height="150" />
-</div>
-
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=root-mwteus&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=root-mwteus&layout=compact&theme=dark&hide_border=true" width="48%" />
+</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=root-mwteus&color=blue&style=flat&label=VISITAS+AO+PERFIL" alt="Visualizações do Perfil" />
