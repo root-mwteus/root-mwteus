@@ -4,6 +4,13 @@ Técnico em Eletrotécnica e graduando em **Análise e Desenvolvimento de Sistem
 
 ---
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mda1@aluno.ifal.edu.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
+
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
