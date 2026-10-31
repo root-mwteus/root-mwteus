@@ -27,6 +27,7 @@ Cofundador da [**MCode**](https://mcode.dev.br), um estúdio que une design de i
 
 ```text
 code      Python · JavaScript · TypeScript
+dev       Git · PostgreSQL
 security  Linux · Wireshark
 ```
 
