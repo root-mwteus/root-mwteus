@@ -1,4 +1,4 @@
-### `~ › cat about-me.txt`
+### `~ › perfil`
 
 ```text
 root-mwteus@github:~
@@ -11,11 +11,11 @@ working_on    Desenvolvimento web / Infraestrutura de redes
 languages     Python / JavaScript / TypeScript
 ```
 
-### `~ › cat mcode.txt`
+### `~ › construindo`
 
-Fundador da [**MCode**](https://mcode.dev.br), um estúdio que une design de interfaces, desenvolvimento web e identidade digital para dar presença às marcas.
+Cofundador da [**MCode**](https://mcode.dev.br), um estúdio que une design de interfaces, desenvolvimento web e identidade digital para dar presença às marcas.
 
-### `~ › ls socials/`
+### `~ › contato`
 
 <p>
   <a href="https://www.linkedin.com/in/mateus-devsec"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&amp;logoColor=C9D1D9&amp;labelColor=0D1117"></a>
@@ -23,11 +23,11 @@ Fundador da [**MCode**](https://mcode.dev.br), um estúdio que une design de int
   <a href="https://mcode.dev.br"><img alt="Site da MCode" src="https://img.shields.io/badge/MCode-161B22?style=flat-square&amp;logoColor=C9D1D9&amp;labelColor=0D1117"></a>
 </p>
 
-### `~ › ls tech-stack/`
+### `~ › linguagens`
 
 ![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=C9D1D9&labelColor=0D1117) ![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=C9D1D9&labelColor=0D1117) ![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=C9D1D9&labelColor=0D1117)
 
-### `~ › git stats --user root-mwteus`
+### `~ › atividade`
 
 <p>
   <img src="https://github-readme-stats.shion.dev/api?username=root-mwteus&amp;show_icons=true&amp;bg_color=0D1117&amp;title_color=C9D1D9&amp;text_color=C9D1D9&amp;icon_color=C9D1D9&amp;border_color=30363D&amp;border_radius=0" alt="Estatísticas do GitHub de Mateus Dias" height="170">
@@ -36,5 +36,7 @@ Fundador da [**MCode**](https://mcode.dev.br), um estúdio que une design de int
 ---
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=root-mwteus&amp;style=flat-square&amp;color=30363D&amp;label=profile+views" alt="Visualizações do perfil de Mateus Dias">
+  <br><br>
   <code>~ › criar. entender. melhorar. _</code>
 </p>
