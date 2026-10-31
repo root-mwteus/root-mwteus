@@ -1,35 +1,29 @@
-# Mateus Dias
+<div align="center">
+  <h1>Olá, eu sou o Mateus.</h1>
+  <p>Desenvolvimento web · Redes · Automação</p>
+</div>
 
-Desenvolvedor full-stack com foco em aplicações web, redes e automação. Trabalho com Next.js, TypeScript e Supabase, com experiência em infraestrutura SD-WAN e projetos de IoT.
+<br>
 
-Curso Análise e Desenvolvimento de Sistemas no IFPE e Gestão da Segurança e Defesa Cibernética na Uninter. Sou técnico em Eletrotécnica pelo IFAL.
+Desenvolvedor full-stack e estudante de ADS e Defesa Cibernética. Gosto de criar aplicações úteis e entender a infraestrutura que faz tudo funcionar.
 
-[LinkedIn](https://www.linkedin.com/in/mateus-devsec) · [E-mail](mailto:mateus.devsec@gmail.com)
+### Sobre mim
 
-## Projetos e atuação
+- Fundador e desenvolvedor do [Matriz Aprova](https://matrizaprova.com), uma plataforma de estudos para concursos e vestibulares.
+- Atuo com desenvolvimento web, informatização e infraestrutura de redes em um cartório de imóveis.
+- Técnico em Eletrotécnica pelo IFAL, com experiência em pesquisa de IoT e robótica.
+- Medalhista na Olimpíada Brasileira de Robótica: bronze em 2024 e prata em 2025.
 
-**[Matriz Aprova](https://matrizaprova.com)**
+### Linguagens
 
-SaaS de estudos que fundei e desenvolvo para concursos, vestibulares e exames militares. Planos de estudo com IA, pagamentos via InfinitePay e e-mails transacionais com Resend. Construído com Next.js, TypeScript e Supabase.
+`Python` · `JavaScript` · `TypeScript`
 
-**[Cartório de Imóveis — Bom Conselho/PE](https://cartorio-project-topaz.vercel.app)**
+### Projetos
 
-Desenvolvimento da plataforma web institucional com Next.js, Supabase e Redis, incluindo formulário de contato com proteção antispam. Também atuo na informatização da serventia e no suporte local à infraestrutura de redes SD-WAN, em conjunto com a equipe remota de TI.
+[**Matriz Aprova**](https://matrizaprova.com) — Plataforma de estudos com planos personalizados por IA.
 
-**Pesquisa e IoT · IFAL**
+[**Cartório de Imóveis · Bom Conselho/PE**](https://cartorio-project-topaz.vercel.app) — Plataforma institucional com formulário de contato e proteção antispam.
 
-Desenvolvi um dashboard web para monitoramento ambiental em tempo real, integrado a sensores com ESP32, APIs REST e MySQL em nuvem, como bolsista PIBIC-Jr.
+---
 
-**Robótica · IFAL**
-
-Liderei a equipe e fui programador principal de um robô autônomo EV3. Medalhas de bronze (2024) e prata (2025) na Olimpíada Brasileira de Robótica, categoria Resgate.
-
-## Tecnologias
-
-**Web** · TypeScript, JavaScript, React, Next.js, Node.js, Tailwind CSS
-
-**Dados e backend** · Supabase, PostgreSQL, MySQL, Redis, APIs REST
-
-**Infraestrutura e hardware** · Linux, Git, SD-WAN, Wireshark, ESP32, Arduino
-
-**Outras linguagens** · Python, C++, SQL
+[LinkedIn](https://www.linkedin.com/in/mateus-devsec) · [mateus.devsec@gmail.com](mailto:mateus.devsec@gmail.com)
