@@ -13,7 +13,7 @@ languages     Python / JavaScript / TypeScript
 
 ### `~ › construindo`
 
-Cofundador da [**MCode**](https://mcode.dev.br), um estúdio que une design de interfaces, desenvolvimento web e identidade digital para dar presença às marcas.
+Fundador da [**MCode**](https://mcode.dev.br), um estúdio que une design de interfaces, desenvolvimento web e identidade digital para dar presença às marcas.
 
 ### `~ › contato`
 
@@ -23,9 +23,12 @@ Cofundador da [**MCode**](https://mcode.dev.br), um estúdio que une design de i
   <a href="https://mcode.dev.br"><img alt="Site da MCode" src="https://img.shields.io/badge/MCode-161B22?style=flat-square&amp;logoColor=C9D1D9&amp;labelColor=0D1117"></a>
 </p>
 
-### `~ › linguagens`
+### `~ › ferramentas`
 
-![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=C9D1D9&labelColor=0D1117) ![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=C9D1D9&labelColor=0D1117) ![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=C9D1D9&labelColor=0D1117)
+```text
+code      Python · JavaScript · TypeScript
+security  Linux · Wireshark
+```
 
 ### `~ › atividade`
 
