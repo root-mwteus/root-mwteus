@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, eu sou o Mateus.</h1>
+  <h1>(Hello World)</h1>
   <p>Desenvolvimento web · Redes · Automação</p>
 </div>
 
@@ -9,18 +9,17 @@ Desenvolvedor full-stack e estudante de ADS e Defesa Cibernética. Gosto de cria
 
 ### Sobre mim
 
-- Fundador e desenvolvedor do [Matriz Aprova](https://matrizaprova.com), uma plataforma de estudos para concursos e vestibulares.
-- Atuo com desenvolvimento web, informatização e infraestrutura de redes em um cartório de imóveis.
-- Técnico em Eletrotécnica pelo IFAL, com experiência em pesquisa de IoT e robótica.
-- Medalhista na Olimpíada Brasileira de Robótica: bronze em 2024 e prata em 2025.
+- Estou fundando a **MCode**, um estúdio que une design e desenvolvimento para criar a presença digital de marcas.
+- Atuo na organização da infraestrutura de redes de um cartório de imóveis.
+- Técnico em Eletrotécnica com experiência em pesquisa de IoT e robótica.
 
-### Linguagens
+### Stack
 
 `Python` · `JavaScript` · `TypeScript`
 
 ### Projetos
 
-[**Matriz Aprova**](https://matrizaprova.com) — Plataforma de estudos com planos personalizados por IA.
+**MCode** — Estúdio em construção, com foco em design de interfaces, desenvolvimento web e identidade digital. O portfólio inicial reúne projetos conceituais.
 
 [**Cartório de Imóveis · Bom Conselho/PE**](https://cartorio-project-topaz.vercel.app) — Plataforma institucional com formulário de contato e proteção antispam.
 
