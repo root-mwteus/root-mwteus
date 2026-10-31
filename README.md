@@ -13,7 +13,7 @@ languages     Python / JavaScript / TypeScript
 
 ### `~ › cat mcode.txt`
 
-Sou cofundador da [**MCode**](https://mcode.dev.br), um estúdio que une design de interfaces, desenvolvimento web e identidade digital para dar presença às marcas. Estamos construindo nosso portfólio inicial com projetos conceituais.
+Fundador da [**MCode**](https://mcode.dev.br), um estúdio que une design de interfaces, desenvolvimento web e identidade digital para dar presença às marcas. Estamos construindo nosso portfólio inicial com projetos conceituais.
 
 ### `~ › ls socials/`
 
