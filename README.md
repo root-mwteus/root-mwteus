@@ -13,7 +13,7 @@ languages     Python / JavaScript / TypeScript
 
 ### `~ › construindo`
 
-Fundador da [**MCode**](https://mcode.dev.br), um estúdio que une design de interfaces, desenvolvimento web e identidade digital para dar presença às marcas.
+Cofundador da [**MCode**](https://mcode.dev.br), um estúdio que une design de interfaces, desenvolvimento web e identidade digital para dar presença às marcas.
 
 ### `~ › contato`
 
